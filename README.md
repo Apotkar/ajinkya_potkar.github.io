@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Ajinkyaphoto.jpg" alt="Ajinkya Potkar" width="200" style="border-radius: 50%;">
+  <img src="./AjinkyaPhoto.jpeg" alt="Ajinkya Potkar" width="200" style="border-radius: 50%;">
 </p>
 #  Ajinkya Shyam Potkar
 
