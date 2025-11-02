@@ -1,7 +1,6 @@
 
-#  <p align="left">
-  <img src="./AjinkyaPhoto.jpeg" alt="Ajinkya Potkar" width="500" style="border-radius: 50%;">
-</p> Ajinkya Shyam Potkar
+#  <img src="./AjinkyaPhoto.jpeg" alt="Ajinkya Potkar" width="500" style="border-radius: 50%;">
+Ajinkya Shyam Potkar
 
 **Piping & Pipeline Stress Engineer**  
 📍 India | 📧 [ajinkya.potkar4@gmail.com](mailto:ajinkya.potkar4@gmail.com) | 📱 +91-9503538879  
