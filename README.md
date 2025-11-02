@@ -1,6 +1,6 @@
 
 #  <p align="left">
-  <img src="./AjinkyaPhoto.jpeg" alt="Ajinkya Potkar" width="500" style="border-radius: 50%;">
+  <img src="./AjinkyaPhoto.jpeg" alt="Ajinkya Potkar" width="50" style="border-radius: 50%;">
 </p> Ajinkya Shyam Potkar
 
 **Piping & Pipeline Stress Engineer**  
