@@ -1,5 +1,3 @@
-# <img src="./AjinkyaPhoto.jpeg" alt="Ajinkya Potkar" width="50" style="border-radius: 50%;"> 
-
 Ajinkya Shyam Potkar
 
 **Piping & Pipeline Stress Engineer**  
