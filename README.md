@@ -1,6 +1,6 @@
-Ajinkya Shyam Potkar
+## Ajinkya Shyam Potkar
 
-**Piping & Pipeline Stress Engineer**  
+## **Piping & Pipeline Stress Engineer**  
 📍 India | 📧 [ajinkya.potkar4@gmail.com](mailto:ajinkya.potkar4@gmail.com) | 📱 +91-9503538879  
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ajinkya--potkar-blue?logo=linkedin)](https://www.linkedin.com/in/ajinkya-potkar/)  
 
