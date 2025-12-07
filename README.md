@@ -21,7 +21,7 @@ I’m passionate about **engineering automation**, **Python/VBA scripting**, and
 | 🎓 **M.Tech in Machine Design** | Indian Institute of Technology, Guwahati | 2018 – 2020 | 8.65 |
 | ⚙️ **B.E. in Mechanical Engineering** | Yeshwantrao Chavan College of Engineering, Nagpur | 2013 – 2017 | 8.72 |
 | 🧮 Higher Secondary | Dr. Br. Ambedkar College of Science | 2012 | 84 % |
-| 📘 Secondary (CBSE) | — | 2010 | 91 % |
+| 📘 Secondary (CBSE) | The Aditya Birla Public School | 2010 | 91 % |
 
 ---
 
