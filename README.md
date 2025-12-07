@@ -1,12 +1,9 @@
-## Ajinkya Shyam Potkar
-
 ## **Piping & Pipeline Stress Engineer**  
 📍 India | 📧 [ajinkya.potkar4@gmail.com](mailto:ajinkya.potkar4@gmail.com) | 📱 +91-9503538879  
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ajinkya--potkar-blue?logo=linkedin)](https://www.linkedin.com/in/ajinkya-potkar/)  
 
 ---
-
-## 🧭 About Me
+# 🧭 About Me
 
 Dedicated and highly skilled **Piping & Pipeline Stress Engineer** with **5+ years of experience** in piping design, stress analysis, and support engineering.  
 Experienced with **ASME B31.3, B31.4, and B31.8** codes, and proficient in industry-leading software such as **CAESAR II**, **ANSYS**, and **AutoPIPE**.  
