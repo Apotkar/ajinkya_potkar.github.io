@@ -52,7 +52,7 @@ I’m passionate about **engineering automation**, **Python/VBA scripting**, and
 | **JEPL – JAFURAH EXPORT PIPELINES** | Detail Engineering | Automated repetitive stress & civil load documentation using Excel VBA. |
 | **STGT – TAIL GAS TREATMENT** | Proposal | Expansion loop calculations & wall thickness checks. |
 | **HRRL – COOLING TOWER 2 & 6** | Detail Engineering | Stress systems for riser and make-up water lines. |
-[Project-1]([https://github.com/Apotkar/ajinkya_potkar.github.io/Project-1.html](https://github.com/Apotkar/ajinkya_potkar.github.io/blob/main/Project-1.html))
+[Project-1](https://github.com/Apotkar/ajinkya_potkar.github.io/blob/main/Project-1.html)
 ---
 
 ## 🧠 Technical Skills
